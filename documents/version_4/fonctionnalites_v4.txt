@@ -1,0 +1,6 @@
+* Fonctionnalite version 4
+
+  - Fonctionnalite 1 : Connection entre plusieurs cartes
+    - Descriptif texte : Creation d'une liaison entre 2 cartes afin qu'un personnage puisse s'y deplacer
+    - Criteres de validation :
+      - Critere 1 Un personnage puisse se deplacer entre 2 cartes

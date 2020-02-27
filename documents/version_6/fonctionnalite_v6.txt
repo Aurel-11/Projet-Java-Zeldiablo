@@ -1,0 +1,19 @@
+* Fonctionnalite version 6
+
+  - Fonctionnalite 1 : Modification de l'affichage de tous les elements
+    - Descriptif texte : Les elements a afficher doivent gerer eux-meme leur affichage
+      - Critere 1 Les classes gerent eux-meme leur affichage
+
+  - Fonctionnalite 2 : Creation des differents monstre
+    - Descriptif texte : Creation des differents monstres representes par differentes classes
+      - Critere 1 Avoir des monstres differents
+
+  - Fonctionnalite 3 : Ajout de points de vie et systeme de combat au corps-a-corps
+    - Descriptif texte : Creation d'un systeme de combat et l'ajout de vie et de systeme de mort
+      - Critere 1 Le personnage et les monstres cac doivent attaquer
+      - Critere 2 Le personnage et les monstres doivent mourir et etre supprime de la carte
+
+  - Fonctionnalite 4 : Ajout de systeme de salle
+    - Descriptif texte : Les salles se bloquent et ne s'ouvre que si tout les ennemies sont tues
+      - Critere 1 La salle doit etre bloquee a l'entree du personnage s'il y a des montres
+      - Critere 2 La salle doit s'ouvrir lorsque le dernier monstre meurt

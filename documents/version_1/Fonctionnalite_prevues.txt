@@ -1,0 +1,9 @@
+- Un personnage qui évolue dans des cartes
+- Cartes avec différentes cases et connections vers d'autres cartes
+- Les cases peuvent être du sol ou des murs ou des cases spéciales
+- Labyrinthes composés de cartes reliées entre elles
+- Plusieurs étages de labyrinthe
+- Le personnage pourra avoir des améliorations différentes
+- Le personnage pourra avoir plusieurs armes ou autre équipement
+- Il existera des monstres qui seront ennemies au personnage
+- Il pourra y avoir des pnj alliés ou neutre comme des marchands

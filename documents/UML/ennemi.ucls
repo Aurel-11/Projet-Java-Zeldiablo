@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="application.ennemi.ChauveSouris" 
+    project="2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u" 
+    file="/2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u/projet_zeldiablo/src/application/ennemi/ChauveSouris.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="280" x="-329" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="application.ennemi.Tourelle" 
+    project="2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u" 
+    file="/2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u/projet_zeldiablo/src/application/ennemi/Tourelle.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="249" x="-9" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="application.ennemi.Monstre" 
+    project="2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u" 
+    file="/2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u/projet_zeldiablo/src/application/ennemi/Monstre.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="619" width="251" x="129" y="-90"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="application.ennemi.Guerrier" 
+    project="2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u" 
+    file="/2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u/projet_zeldiablo/src/application/ennemi/Guerrier.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="252" x="280" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="application.ennemi.Archer" 
+    project="2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u" 
+    file="/2019_coo_zeldiablo_bernar323u_gregoir49u_gachenot7u_rethiers2u/projet_zeldiablo/src/application/ennemi/Archer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="244" x="572" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="6">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

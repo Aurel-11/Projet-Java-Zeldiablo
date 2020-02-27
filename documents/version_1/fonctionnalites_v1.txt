@@ -1,0 +1,32 @@
+* Fonctionnalites version 1
+
+  - Fonctionnalite 1 : Creation carte
+    - Descriptif texte : Creation d'une carte de jeu
+    - Criteres de validation :
+      - Critere 1 Possede des murs
+      - Critere 2 Possede du sol
+    - Diagramme de sequence : DiagrammeSequence_v1_Creation_carte.png
+    - Explication textuelle fonctionnement :
+        - On cree une carte
+        - On cree une case simple
+        - On l'ajoute au tableau de case de la carte
+        - On cree un mur
+        - On l'ajoute au tableau de case de la carte
+
+  - Fonctionnalite 2 : Creation personnage
+    - Descriptif texte : Creation d'un personnage placable sur une carte
+    - Criteres de validation :
+      - Critere 1 Apparition dans la zone de jeu
+    - Diagramme de sequence : DiagrammeSequence_v1_Creation_personnage.png
+    - Explication textuelle fonctionnement :
+        - On cree un personnage
+        - On l'ajoute a la carte
+
+  - Fonctionnalite 3 : Deplacements
+    - Descriptif texte : Deplacement d'un personnage dans une carte avec les colisions actives
+    - Criteres de validation :
+      - Critere 1 Deplacement dans l'espace de jeu
+      - Critere 2 Collisions actives
+    - Diagramme de sequence : DiagrammeSequence_v1_Deplacement_personnage.png
+    - Explication textuelle fonctionnement :
+        - Deplacement du personnage sur la carte

@@ -1,0 +1,5 @@
+* Fonctionnalite version 6
+
+  - Fonctionnalite 1 : Ajout des sprites
+    - Descriptif texte : Chaque affichage d'entite doit être soit la forme de sprite
+      - Critere 1 Les entites doivent avoir des sprites comme affichage

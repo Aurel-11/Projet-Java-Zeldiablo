@@ -1,0 +1,4 @@
+* Fonctionnalite version 3
+
+  - Fonctionnalite 1 : Implementation du moteur graphique ameliore
+    - Descriptif texte : Changement du moteur graphique vers le moteur avance

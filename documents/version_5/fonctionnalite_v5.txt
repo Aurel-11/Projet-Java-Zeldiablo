@@ -1,0 +1,10 @@
+* Fonctionnalite version 5
+
+  - Fonctionnalite 1 : Creation de pnj (inoffensif et immobile pour l'instant)
+    - Descriptif texte : Creation de personnage non joueur sur les cartes
+      - Critere 1 Presence de personnage non-joueur sur une carte
+
+  - Fonctionnalite 2 : Deplacement frequent et aleatoire des pnj
+    - Descriptif texte : Faire se deplacer les pnj sur la carte de façon pour l'instant aleatoire
+      - Critere 1 Mouvement d'un pnj
+      - Critere 2 Le pnj ne doit pas se deplacer vers les cases bloquantes
